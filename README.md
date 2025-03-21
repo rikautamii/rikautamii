@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Ni Kadek Rika Dwi Utami<br><br>🎓 An Informatics student with a passion for Data Science & Artificial Intelligence.<br>💡 Currently exploring web development and learning various programming languages.<br>📊 Love working with data, building models, and creating insightful visualizations.<br>
+👋 Hi there! I'm Ni Kadek Rika Dwi Utami<br><br>🎓 An Informatics student with a passion for Data Science & Artificial Intelligence.<br>💡 Currently deepening my skills in Data Analysis and Machine Learning.<br>📊 Love working with data, building models, and creating insightful visualizations.<br>
 
 
 ## 🌐 Socials:
